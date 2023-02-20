@@ -1,0 +1,18 @@
+D:\VisualStudio projects\Genel Tekrar Uygulaması1\Genel Tekrar Uygulaması1\bin\Debug\Genel Tekrar Uygulaması1.exe.config
+D:\VisualStudio projects\Genel Tekrar Uygulaması1\Genel Tekrar Uygulaması1\bin\Debug\Genel Tekrar Uygulaması1.exe
+D:\VisualStudio projects\Genel Tekrar Uygulaması1\Genel Tekrar Uygulaması1\bin\Debug\Genel Tekrar Uygulaması1.pdb
+D:\VisualStudio projects\Genel Tekrar Uygulaması1\Genel Tekrar Uygulaması1\obj\Debug\Genel Tekrar Uygulaması1.csproj.AssemblyReference.cache
+D:\VisualStudio projects\Genel Tekrar Uygulaması1\Genel Tekrar Uygulaması1\obj\Debug\Genel Tekrar Uygulaması1.csproj.SuggestedBindingRedirects.cache
+D:\VisualStudio projects\Genel Tekrar Uygulaması1\Genel Tekrar Uygulaması1\obj\Debug\Genel_Tekrar_Uygulaması1.Form2.resources
+D:\VisualStudio projects\Genel Tekrar Uygulaması1\Genel Tekrar Uygulaması1\obj\Debug\Genel_Tekrar_Uygulaması1.Properties.Resources.resources
+D:\VisualStudio projects\Genel Tekrar Uygulaması1\Genel Tekrar Uygulaması1\obj\Debug\Genel Tekrar Uygulaması1.csproj.GenerateResource.cache
+D:\VisualStudio projects\Genel Tekrar Uygulaması1\Genel Tekrar Uygulaması1\obj\Debug\Genel Tekrar Uygulaması1.csproj.CoreCompileInputs.cache
+D:\VisualStudio projects\Genel Tekrar Uygulaması1\Genel Tekrar Uygulaması1\obj\Debug\Genel Tekrar Uygulaması1.exe
+D:\VisualStudio projects\Genel Tekrar Uygulaması1\Genel Tekrar Uygulaması1\obj\Debug\Genel Tekrar Uygulaması1.pdb
+D:\VisualStudio projects\Genel Tekrar Uygulaması1\Genel Tekrar Uygulaması1\obj\Debug\Genel_Tekrar_Uygulaması1.Form1.resources
+D:\VisualStudio projects\Genel Tekrar Uygulaması1\Genel Tekrar Uygulaması1\obj\Debug\Genel_Tekrar_Uygulaması1.Form3.resources
+D:\VisualStudio projects\Genel Tekrar Uygulaması1\Genel Tekrar Uygulaması1\obj\Debug\Interop.WMPLib.dll
+D:\VisualStudio projects\Genel Tekrar Uygulaması1\Genel Tekrar Uygulaması1\obj\Debug\AxInterop.WMPLib.dll
+D:\VisualStudio projects\Genel Tekrar Uygulaması1\Genel Tekrar Uygulaması1\obj\Debug\Genel Tekrar Uygulaması1.csproj.ResolveComReference.cache
+D:\VisualStudio projects\Genel Tekrar Uygulaması1\Genel Tekrar Uygulaması1\bin\Debug\Interop.WMPLib.dll
+D:\VisualStudio projects\Genel Tekrar Uygulaması1\Genel Tekrar Uygulaması1\bin\Debug\AxInterop.WMPLib.dll
